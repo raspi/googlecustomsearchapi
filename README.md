@@ -4,7 +4,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/raspi/googlecustomsearchapi?style=for-the-badge)
 [![Go Report Card](https://goreportcard.com/badge/github.com/raspi/googlecustomsearchapi)](https://goreportcard.com/report/github.com/raspi/googlecustomsearchapi)
 
-Google's custom search REST API client for Go
+Google's custom search REST API v1 client for Go
 
 ## Example
 
@@ -30,3 +30,10 @@ func main() {
 
 }
 ```
+
+## References
+
+* https://developers.google.com/custom-search/v1/using_rest
+* https://developers.google.com/custom-search/v1/overview
+* https://console.cloud.google.com/apis/api/customsearch.googleapis.com/metrics
+ 
