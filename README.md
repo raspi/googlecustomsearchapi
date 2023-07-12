@@ -36,4 +36,4 @@ func main() {
 * https://developers.google.com/custom-search/v1/using_rest
 * https://developers.google.com/custom-search/v1/overview
 * https://console.cloud.google.com/apis/api/customsearch.googleapis.com/metrics
- 
+* https://programmablesearchengine.google.com/controlpanel/all
